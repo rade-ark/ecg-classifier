@@ -3,7 +3,7 @@
 A complete **end-to-end machine learning pipeline** for real-time ECG heartbeat classification using signal processing, feature engineering, and supervised learning.  
 This project simulates **live ECG monitoring** and performs **real-time predictions with visualization**.
 
-> Portfolio Highlight: Demonstrates data preprocessing → feature extraction → model training → live inference → real-time visualization.
+> Data preprocessing → feature extraction → model training → live inference → real-time visualization.
 
 ---
 
